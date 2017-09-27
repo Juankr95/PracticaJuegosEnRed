@@ -8,7 +8,6 @@
  Habrá distintos mapas los cuales tendrán diferentes layouts, cuyo terreno influirá en el porcentaje de acierto, obligándonos a tomar diferentes estrategias para derrotar al enemigo.
  También se compondrá de una interfaz con menus y un muro de la fama, el cual mostrará los jugadores con mayor victorias.
  
- ***
 ## Integrantes:
   + Ángel Bachiller García -> a.bachillerg@alumnos.urjc.es || https://github.com/AngeelBG
   + Juan Carlos Laso Casares -> jc.laso@alumnos.urjc.es || https://github.com/Juankr95
